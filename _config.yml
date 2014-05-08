@@ -116,7 +116,9 @@ JB :
   #
   sharing :
     provider : false
-    
+  
+  #To update to new render engine
+  markdown: kramdown
   # Settings for all other include helpers can be defined by creating 
   # a hash with key named for the given helper. ex:
   #
