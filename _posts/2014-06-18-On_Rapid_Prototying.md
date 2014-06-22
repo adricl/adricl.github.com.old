@@ -12,7 +12,7 @@ share: true
 ---
 
 Original Quadcopter design Flone!
-![Early version of my Easy to build Quadcopter.]({{ site.url }}/images/post_images/Copter_Fail.png)
+![Early version of my Easy to build Quadcopter.]({{ site.url }}/images/post_images/Copter_Fail.jpg)
 
 Building this Quadcopter was new for me as I had never built one from scratch before. I normally just bought most of it in kit form and muddled my way through building it. This time I was determined to build my own from parts I worked out. This turns out to be far more costly and frustrating but ultimately more satisfying. 
 
@@ -29,7 +29,7 @@ So this is my first prototype. I have added reinforcement  around the base of th
 
 Testing in progress.
  
-![Early version of my Easy to build Quadcopter.]({{ site.url }}/images/post_images/full_glued.png)
+![Early version of my Easy to build Quadcopter.]({{ site.url }}/images/post_images/full_glued.jpg)
 
  
 
